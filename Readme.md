@@ -4,6 +4,10 @@ I'm an independent security researcher.
 
 For private audits or security consulting, please reach out to me on Twitter [@0x4th05](https://x.com/0x4th05).
 
+&nbsp;
+
+&nbsp;
+
 ## Languages
 
 - C++
@@ -13,6 +17,10 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 - Cairo
 - Rust
 - Go
+
+&nbsp;
+
+&nbsp;
 
 ## Findings
 
@@ -24,12 +32,15 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 | Nov 24 | [Ethos](https://www.ethos.network/) |Derivatives| 1 High | Sherlock | [:page_facing_up:](Security_Reviews/.md/Ehtos.md)| 33 / 395|
 | Dec 24 | [InterPol](https://www.notinterpol.com/) |Proof of Liquidity management| 1 Medium | Cantina | [:page_facing_up:](Security_Reviews/.md/InterPol.md)| 23 / 237 |
 | Jan 25 | [Plaza Finance](https://plaza.finance/) |Derivatives| 1 High <br/> 1 Low | Sherlock | [:page_facing_up:](Security_Reviews/.md/Plaza_Finance.md)|100 / 2471|
-| Jan 25 | [D.A.A.0](https://daao.ai/) |DAO|1 Medium <br/> 3 Low <br/> 3 QA/Info | Cantina | [:page_facing_up:](Security_Reviews/.md/D.A.A.0.md)| 81 / 292 |
+| Jan 25 | [D.A.A.O](https://daao.ai/) |DAO|1 Medium <br/> 3 Low <br/> 3 QA/Info | Cantina | [:page_facing_up:](Security_Reviews/.md/D.A.A.O.md)| 81 / 292 |
 | Feb 25 | [Liquid Ron](https://github.com/OwlOfMoistness/liquid_ron/blob/main/README.md) |Liquid staking| 1 Low | Code4rena | [:page_facing_up:](Security_Reviews/.md/Liquid_RON.md)| n.a |
 | Feb 25 | [IQAI](https://iqai.com/) |DeFAI| 1 QA/Info | Code4rena | [:page_facing_up:](Security_Reviews/.md/IQAI.md)| n.a |
 | Mar 25 | [Nudge](https://nudge.xyz/) |Liquid staking| 1 Medium | Code4rena | [:page_facing_up:](Security_Reviews/.md/Nudge.md)| 8 / 1078 |
 | Mar 25 | [Silo Finance](https://www.silo.finance/) |Lending market| 1 Low | Code4rena | [:page_facing_up:](Security_Reviews/.md/Silo_Finance.md)| n.a |
 
+&nbsp;
+
+&nbsp;
 
 ## CTFs
 
@@ -43,6 +54,9 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 |[Please sign here](https://onlypwner.xyz/challenges/6) |Web3 - EVM| Solidity | Onlypwner | Solved on 17 Jun 2024 | 
 |[Liquid staking](https://onlypwner.xyz/challenges/15) |Web3 - EVM| Solidity | Onlypwner | Solved on 29 Nov 2024 | 
 
+&nbsp;
+
+&nbsp;
 
 ## Secureum Races
 
@@ -51,6 +65,9 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 |Race-20 | @hrkrshnn |  4 Aug 2023  |37/202 |[Trail of Bits](https://www.trailofbits.com/) workshop on Medusa|
 |Race-21 | @noah_eth | 3 Sept 2023 |11/208 |-|
 
+&nbsp;
+
+&nbsp;
 
 ## Background / Certifications
 
