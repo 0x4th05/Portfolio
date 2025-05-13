@@ -6,8 +6,6 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 
 &nbsp;
 
-&nbsp;
-
 ## Languages
 
 - C++
@@ -17,8 +15,6 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 - Cairo
 - Rust
 - Go
-
-&nbsp;
 
 &nbsp;
 
@@ -40,8 +36,6 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 
 &nbsp;
 
-&nbsp;
-
 ## CTFs
 
 |Challenge Name| Challenge type| Language | Platform | Satus | 
@@ -56,16 +50,12 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 
 &nbsp;
 
-&nbsp;
-
 ## Secureum Races
 
 |# Race |Designed by | Date |Placement | Top Racers Ackward |
 | :----: |:----: |:----:|:----:|:----:|
 |Race-20 | @hrkrshnn |  4 Aug 2023  |37/202 |[Trail of Bits](https://www.trailofbits.com/) workshop on Medusa|
 |Race-21 | @noah_eth | 3 Sept 2023 |11/208 |-|
-
-&nbsp;
 
 &nbsp;
 
