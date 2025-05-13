@@ -57,5 +57,5 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 - MSc Engineering
 - Executive Education MIT (Blockchain track)
 - Smart Contract Hacking Course
-- Acknee auditor course
+- Solana auditor bootcamp
 

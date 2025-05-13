@@ -1,3 +1,4 @@
+<!--
 ---
 title: Security Review Report
 author: 4th05
@@ -24,6 +25,8 @@ header-includes:
 \end{titlepage}
 
 \maketitle
+CANCEL THIS LINE AND THE FIRST ONE TO TO ABOLISH NOTES AND GET PDF FILE --> 
+
 
 <!-- Your report starts here! -->
 
