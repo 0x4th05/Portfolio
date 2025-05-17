@@ -33,6 +33,7 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 | Feb 25 | [IQAI](https://iqai.com/) |DeFAI| 1 QA/Info | Code4rena | [:page_facing_up:](Security_Reviews/.md/IQAI.md)| n.a |
 | Mar 25 | [Nudge](https://nudge.xyz/) |Liquid staking| 1 Medium | Code4rena | [:page_facing_up:](Security_Reviews/.md/Nudge.md)| 8 / 1078 |
 | Mar 25 | [Silo Finance](https://www.silo.finance/) |Lending market| 1 Low | Code4rena | [:page_facing_up:](Security_Reviews/.md/Silo_Finance.md)| n.a |
+| May 25 | [Aegis](https://aegis.im/) | Stablecoin | 1 Low | Sherlock | [:page_facing_up:](Security_Reviews/.md/Aegis.md)| n.a |
 
 &nbsp;
 
