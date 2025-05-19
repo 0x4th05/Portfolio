@@ -22,7 +22,7 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 
 |Date   |Protocol |Category | Severity | Contest Platform | Report | Placement|
 | :----: |:----: |:----|:----|:----:|:----:|----:|
-| Jul 24 | [Zaros](https://www.zaros.fi/) | Perpetual DEX |1 Low | CodeHawks | [:page_facing_up:](Security_Reviews/.md/Zaros.md)| 75 / n.a|
+| Jul 24 | [Zaros](https://www.zaros.fi/) | Perpetual DEX |1 Medium | CodeHawks | [:page_facing_up:](Security_Reviews/.md/Zaros.md)| 75 / n.a|
 | Nov 24 | [1WProject](https://www.oneworldproject.io/) |DAO|1 Low | CodeHawks | [:page_facing_up:](Security_Reviews/.md/1WProject.md)| 22 / n.a|
 | Nov 24 | [vVv](https://app.vvv.net/) |Staking| 1 High | Sherlock | [:page_facing_up:](Security_Reviews/.md/vVv.md)| 1 / 267|
 | Nov 24 | [Ethos](https://www.ethos.network/) |Derivatives| 1 High | Sherlock | [:page_facing_up:](Security_Reviews/.md/Ehtos.md)| 33 / 395|
