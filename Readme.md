@@ -14,7 +14,7 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 - Vyper
 - Cairo
 - Rust
-- Go
+
 
 &nbsp;
 
