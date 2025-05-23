@@ -25,7 +25,7 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 | Jul 24 | [Zaros](https://www.zaros.fi/) | Perpetual DEX |1 Medium | CodeHawks | [:page_facing_up:](Security_Reviews/.md/Zaros.md)| 75 / n.a|
 | Nov 24 | [1WProject](https://www.oneworldproject.io/) |DAO|1 Low | CodeHawks | [:page_facing_up:](Security_Reviews/.md/1WProject.md)| 22 / n.a|
 | Nov 24 | [vVv](https://app.vvv.net/) |Staking| 1 High | Sherlock | [:page_facing_up:](Security_Reviews/.md/vVv.md)| 1 / 267|
-| Nov 24 | [Ethos](https://www.ethos.network/) |Derivatives| 1 High | Sherlock | [:page_facing_up:](Security_Reviews/.md/Ehtos.md)| 33 / 395|
+| Nov 24 | [Ethos](https://www.ethos.network/) |Derivatives| 1 High | Sherlock | [:page_facing_up:](Security_Reviews/.md/Ethos.md)| 33 / 395|
 | Dec 24 | [InterPol](https://www.notinterpol.com/) |Proof of Liquidity management| 1 Medium | Cantina | [:page_facing_up:](Security_Reviews/.md/InterPol.md)| 23 / 237 |
 | Jan 25 | [Plaza Finance](https://plaza.finance/) |Derivatives| 1 High <br/> 1 Low | Sherlock | [:page_facing_up:](Security_Reviews/.md/Plaza_Finance.md)|100 / 2471|
 | Jan 25 | [D.A.A.O](https://daao.ai/) |DAO|1 Medium <br/> 3 Low <br/> 3 QA/Info | Cantina | [:page_facing_up:](Security_Reviews/.md/D.A.A.O.md)| 81 / 292 |
