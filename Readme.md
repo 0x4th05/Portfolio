@@ -22,19 +22,19 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 
 |Date   |Protocol |Category | Severity | Contest Platform | Report | Placement|
 | :----: |:----: |:----|:----|:----:|:----:|----:|
-| Jul 24 | [Zaros](https://www.zaros.fi/) | Perpetual DEX |1 Medium | CodeHawks | [:page_facing_up:](Security_Reviews/.md/Zaros.md)| 75 / n.a|
-| Nov 24 | [1WProject](https://www.oneworldproject.io/) |DAO|1 Low | CodeHawks | [:page_facing_up:](Security_Reviews/.md/1WProject.md)| 22 / n.a|
-| Nov 24 | [vVv](https://app.vvv.net/) |Staking| 1 High | Sherlock | [:page_facing_up:](Security_Reviews/.md/vVv.md)| 1 / 267|
-| Nov 24 | [Ethos](https://www.ethos.network/) |Derivatives| 1 High | Sherlock | [:page_facing_up:](Security_Reviews/.md/Ethos.md)| 33 / 395|
-| Dec 24 | [InterPol](https://www.notinterpol.com/) |Proof of Liquidity management| 1 Medium | Cantina | [:page_facing_up:](Security_Reviews/.md/InterPol.md)| 23 / 237 |
-| Jan 25 | [Plaza Finance](https://plaza.finance/) |Derivatives| 1 High <br/> 1 Low | Sherlock | [:page_facing_up:](Security_Reviews/.md/Plaza_Finance.md)|100 / 2471|
-| Jan 25 | [D.A.A.O](https://daao.ai/) |DAO|1 Medium <br/> 3 Low <br/> 3 QA/Info | Cantina | [:page_facing_up:](Security_Reviews/.md/D.A.A.O.md)| 81 / 292 |
-| Feb 25 | [Liquid Ron](https://github.com/OwlOfMoistness/liquid_ron/blob/main/README.md) |Liquid staking| 1 Low | Code4rena | [:page_facing_up:](Security_Reviews/.md/Liquid_RON.md)| n.a |
-| Feb 25 | [IQAI](https://iqai.com/) |DeFAI| 1 QA/Info | Code4rena | [:page_facing_up:](Security_Reviews/.md/IQAI.md)| n.a |
-| Mar 25 | [Nudge](https://nudge.xyz/) |Liquid staking| 1 Medium | Code4rena | [:page_facing_up:](Security_Reviews/.md/Nudge.md)| 8 / 1078 |
-| Mar 25 | [Silo Finance](https://www.silo.finance/) |Lending market| 1 Low | Code4rena | [:page_facing_up:](Security_Reviews/.md/Silo_Finance.md)| n.a |
-| May 25 | [Aegis](https://aegis.im/) | Stablecoin | 1 Low | Sherlock | [:page_facing_up:](Security_Reviews/.md/Aegis.md)| n.a |
-| May 26 | [Upside](https://play.upside.fun/) | Prediction Market | 1 Low | Cod4rena | [:page_facing_up:](Security_Reviews/.md/Upside.md)| n.a |
+| Jul '24 | [Zaros](https://www.zaros.fi/) | Perpetual DEX |1 Medium | CodeHawks | [:page_facing_up:](Security_Reviews/.md/Zaros.md)| 75 / n.a|
+| Nov '24 | [1WProject](https://www.oneworldproject.io/) |DAO|1 Low | CodeHawks | [:page_facing_up:](Security_Reviews/.md/1WProject.md)| 22 / n.a|
+| Nov '24 | [vVv](https://app.vvv.net/) |Staking| 1 High | Sherlock | [:page_facing_up:](Security_Reviews/.md/vVv.md)| 1 / 267|
+| Nov '24 | [Ethos](https://www.ethos.network/) |Derivatives| 1 High | Sherlock | [:page_facing_up:](Security_Reviews/.md/Ethos.md)| 33 / 395|
+| Dec '24 | [InterPol](https://www.notinterpol.com/) |Proof of Liquidity management| 1 Medium | Cantina | [:page_facing_up:](Security_Reviews/.md/InterPol.md)| 23 / 237 |
+| Jan '25 | [Plaza Finance](https://plaza.finance/) |Derivatives| 1 High <br/> 1 Low | Sherlock | [:page_facing_up:](Security_Reviews/.md/Plaza_Finance.md)|100 / 2471|
+| Jan '25 | [D.A.A.O](https://daao.ai/) |DAO|1 Medium <br/> 3 Low <br/> 3 QA/Info | Cantina | [:page_facing_up:](Security_Reviews/.md/D.A.A.O.md)| 81 / 292 |
+| Feb '25 | [Liquid Ron](https://github.com/OwlOfMoistness/liquid_ron/blob/main/README.md) |Liquid staking| 1 Low | Code4rena | [:page_facing_up:](Security_Reviews/.md/Liquid_RON.md)| n.a |
+| Feb '25 | [IQAI](https://iqai.com/) |DeFAI| 1 QA/Info | Code4rena | [:page_facing_up:](Security_Reviews/.md/IQAI.md)| n.a |
+| Mar '25 | [Nudge](https://nudge.xyz/) |Liquid staking| 1 Medium | Code4rena | [:page_facing_up:](Security_Reviews/.md/Nudge.md)| 8 / 1078 |
+| Mar '25 | [Silo Finance](https://www.silo.finance/) |Lending market| 1 Low | Code4rena | [:page_facing_up:](Security_Reviews/.md/Silo_Finance.md)| n.a |
+| May '25 | [Aegis](https://aegis.im/) | Stablecoin | 1 Low | Sherlock | [:page_facing_up:](Security_Reviews/.md/Aegis.md)| n.a |
+| May '25 | [Upside](https://play.upside.fun/) | Prediction Market | 1 Low | Cod4rena | [:page_facing_up:](Security_Reviews/.md/Upside.md)| n.a |
 
 &nbsp;
 
