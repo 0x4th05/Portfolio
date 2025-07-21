@@ -38,13 +38,6 @@ Lead Auditors:
 \begin{flushright}...\end{flushright}
 -->
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 # Table of Contents
 

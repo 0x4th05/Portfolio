@@ -41,17 +41,6 @@ Lead Auditors:
 pandoc report-example.md -o report.pdf --from markdown --template=eisvogel --listings
 -->
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
