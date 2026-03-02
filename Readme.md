@@ -35,8 +35,8 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 | Mar '25 | [Silo Finance](https://www.silo.finance/) |Lending market| 1 Low | Code4rena | [:page_facing_up:](Security_Reviews/.md/Silo_Finance.md)| n.a |
 | May '25 | [Aegis](https://aegis.im/) | Stablecoin | 1 Low | Sherlock | [:page_facing_up:](Security_Reviews/.md/Aegis.md)| n.a |
 | May '25 | [Upside](https://play.upside.fun/) | Prediction Market | 1 Low | Cod4rena | [:page_facing_up:](Security_Reviews/.md/Upside.md)| n.a |
-| Oct '25 | [Alchemix](https://play.upside.fun/) | Yield synthetic assets | 1 medium <br/> 1 QA | Immunefi | [:page_facing_up:](Security_Reviews/.md/Alchemix.md)| 57 / 298 |
-| Nov '25 | [Firelight](https://play.upside.fun/) | Vault | 1 Low | Immunefi | [:page_facing_up:](Security_Reviews/.md/Firelight.md)| 37 /191 |
+| Oct '25 | [Alchemix](https://alchemix.fi/) | Yield synthetic assets | 1 medium <br/> 1 QA | Immunefi | [:page_facing_up:](Security_Reviews/.md/Alchemix.md)| 57 / 298 |
+| Nov '25 | [Firelight](https://firelight.finance/) | Vault | 1 Low | Immunefi | [:page_facing_up:](Security_Reviews/.md/Firelight.md)| 37 /191 |
 | Dec '25 | [Monolith](https://www.monolith.market/) | Stablecoin | 2 Low | Sherlock | [:page_facing_up:](Security_Reviews/.md/Monolith.md)| n.a |
 
 &nbsp;
