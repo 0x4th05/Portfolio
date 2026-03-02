@@ -132,15 +132,18 @@ A smart contract security review can never verify the complete absence of vulner
 # Findings
 
 **Title**
-Missing check in function `AlchemistV3::setMinimumCollateralization` could lead to set `minimumCollateralization > globalMinimumCollateralization`.
+
+[M1]Missing check in function `AlchemistV3::setMinimumCollateralization` could lead to set `minimumCollateralization > globalMinimumCollateralization`.
 
 
 **Summary**
+
 The `minimumCollateralization` could be set to be `> globalMinimumCollateralization` when it should not be allowed. Therefore, all the functions using these parameters would use values that should not be allowed by the framework of the `AlchemistV3`. Because of the `onlyOwner modifier` it has just low severity.
 
 &nbsp;
 
 **Vulnerability Details**
+
 In the `AlchemistV3` contract the `globalMinimumCollateralization` should always be `>= minimumCollateralization` as checked by the function `AlchemistV3::setGlobalMinimumCollateralization`.
 
 ```solidity
@@ -169,7 +172,6 @@ The `AlchemistV3` contract allows the parameter `minimumCollateralization` to be
 &nbsp;
 
 **POC**
-POC
 
 Add the following test to the test suite (`AlchemistV3.t.sol`) of the project, and run this: `forge test --mt test_setminimumCollateralizationGreaterThanGlobalMinimumCollateralization -vvvvv` and it should pass
 
@@ -231,6 +233,7 @@ Suite result: ok. 1 passed; 0 failed; 0 skipped; finished in 31.16ms (6.21ms CPU
 &nbsp;
 
 **References**
+
 https://github.com/alchemix-finance/v3-poc/blob/immunefi_audit/src/AlchemistV3.sol#L292-L297
 
 https://github.com/alchemix-finance/v3-poc/blob/immunefi_audit/src/AlchemistV3.sol#L300-L304
@@ -271,9 +274,12 @@ function setMinimumCollateralization(uint256 value) external onlyAdmin {
     }
 ```
 
+&nbsp;
+&nbsp;
+
 **Title**
 
-Manipulation of `feeInUnderlying` through front-running during liquidations on Ethereum
+[I1] Manipulation of `feeInUnderlying` through front-running during liquidations on Ethereum
 
 
 **Summary**
