@@ -113,9 +113,9 @@ src
 
 | Severity | Number of issues found |
 | :------- | :--------------------: |
-| High     |           1            |
+| High     |           0            |
 | Medium   |           0            |
-| Low      |           1            |
+| Low      |           2            |
 | Info     |           0            |
 
 &nbsp;
