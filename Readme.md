@@ -38,6 +38,7 @@ For private audits or security consulting, please reach out to me on Twitter [@0
 | Oct '25 | [Alchemix](https://play.upside.fun/) | Yield synthetic assets | 1 medium <br/> 1 QA | Immunefi | [:page_facing_up:](Security_Reviews/.md/Alchemix.md)| 57 / 298 |
 | Nov '25 | [Firelight](https://play.upside.fun/) | Vault | 1 Low | Immunefi | [:page_facing_up:](Security_Reviews/.md/Firelight.md)| 37 /191 |
 | Dec '25 | [Monolith](https://www.monolith.market/) | Stablecoin | 2 Low | Sherlock | [:page_facing_up:](Security_Reviews/.md/Monolith.md)| n.a |
+
 &nbsp;
 
 ## CTFs
