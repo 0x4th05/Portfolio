@@ -252,15 +252,18 @@ function sell(uint coinIn, uint minAssetOut) external returns (uint assetOut) {
 
 
 **Summary**
+
 The requirement written in the constructor, can be bypassed using the `setHalfLife`. 
 
 
 **Relevant GitHub Links**
+
 https://github.com/sherlock-audit/2025-12-monolith-stablecoin-factory-0x4th05/blob/main/Monolith/src/Lender.sol#L917
 
 https://github.com/sherlock-audit/2025-12-monolith-stablecoin-factory-0x4th05/blob/main/Monolith/src/Lender.sol#L127
 
 **Root Cause**
+
 In the constructor it is written that `halfLife >= 24 hours && params.halfLife <= 30 days`. 
 However, the `Operator` and the `manager` can bypass it calling before the deadline, the function `setHalfLife` having a different constraint.
 
@@ -285,15 +288,18 @@ function setHalfLife(uint64 halfLife) external onlyOperatorOrManager beforeDeadl
 
 
 **Attack Path**
+
 - The contract is deployed with `halfLife = 25 hours`
 - Operator or manager call `setHalfLife` immediately after the deployment setting it to a value `>12 hours && <24 hours` bypassing therefore, the check of the constructor.
 
 **Impact**
+
 The bypass of the check written in the constructor regarding the `halfLife` variable has an impact on all the other functions that use the value of this variable in their execution
 
 &nbsp;
 
 **Mitigation**
+
 ```diff
 function setHalfLife(uint64 halfLife) external onlyOperatorOrManager beforeDeadline {
         accrueInterest();

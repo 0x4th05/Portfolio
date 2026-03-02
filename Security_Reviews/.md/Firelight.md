@@ -103,15 +103,18 @@ A smart contract security review can never verify the complete absence of vulner
 # Findings
 
 **Title**
+
 Underflow issue leading to a `periodAtTimestamp` DOS
 
 
 **Summary**
+
 Using the `FirelightVault::periodAtTimestamp` with an input `Timestamp` corresponding to a configuration period `Config` so that `Config.epoch > block.timestamp` the function reverts instead of returning the period number that it should return for the given input value. 
 
 &nbsp;
 
 **Vulnerability Details**
+
 The `FirelightVault::periodAtTimestamp` reverts when called using `timestamps` that correspond to a configuration period not yet started. 
 
 ```solidity
@@ -135,6 +138,7 @@ the call to the `_sinceEpoch` which will in turn revert the `periodAtTimestamp` 
 &nbsp;
 
 **Impact**
+
 The function does not do what it should but there is no loss of money. 
 
 So the severity is low. 
@@ -146,6 +150,7 @@ This function should return the period number for a given `timestamp` input. How
 &nbsp;
 
 **POC**
+
 Create a new foundry test file `FirelightVault.t.sol` like the one below and run `forge test --mt testPeriodAtTimestamp -vvvvv`. 
 
 To pass the test the `FirelightVault::periodAtTimestamp` should revert because of an underflow.
@@ -289,6 +294,7 @@ Ran 1 test suite in 4.32s (12.49ms CPU time): 1 tests passed, 0 failed, 0 skippe
 &nbsp;
 
 **References**
+
 https://github.com/firelight-protocol/firelight-core/blob/main/contracts/FirelightVault.sol#L246C4-L250
 
 https://github.com/firelight-protocol/firelight-core/blob/main/contracts/FirelightVault.sol#L264-L266

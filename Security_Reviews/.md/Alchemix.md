@@ -272,15 +272,18 @@ function setMinimumCollateralization(uint256 value) external onlyAdmin {
 ```
 
 **Title**
+
 Manipulation of `feeInUnderlying` through front-running during liquidations on Ethereum
 
 
 **Summary**
+
 During the liquidation process on the Ethereum blockchain in case `alchemistCurrentCollateralization < globalMinimumCollateralization` the `feeInUnderlying` value can be manipulated (reduced to 0) by an attacker at no costs just paying transaction gas fee. This way the attacker prevent the user who started the liquidation process from receiving its `feeInUnderlying` for that liquidation.
 
 &nbsp;
 
 **Vulnerability Details**
+
 When all the conditions are met and a user calls the function `AlchemistV3::Liquidate`, it calls in turn these functions to liquidate a position `_liquidate, _doLiquidation, calculateLiquidation`. Considering the latter, it returns among the others the following value: `outsourcedFee`. Then that value is used for the calculation of the `feeInUnderlying` that is sent to the user.  
 
 ```solidity
@@ -366,6 +369,7 @@ By doing this simple front run action, the attacker can set the value of `feeInU
 &nbsp;
 
 **Impact**
+
 Due to this attack the user starting the liquidation process will not get any `feeInUnderlying` even if it should have been `>0`.
 
 The impact of the attack is twofold: 
@@ -768,6 +772,7 @@ Encountered 1 failing test in src/test/AlchemistV3.t.sol:AlchemistV3Test
 &nbsp; 
 
 **References**
+
 https://github.com/alchemix-finance/v3-poc/blob/immunefi_audit/src/AlchemistV3.sol#L862
 
 https://github.com/alchemix-finance/v3-poc/blob/immunefi_audit/src/AlchemistV3.sol#L1239
@@ -783,6 +788,7 @@ Manual review
 &nbsp;
 
 **Recommendations**
+
 A possible mitigation action could be the one below:
 
 ```diff
